@@ -9,7 +9,7 @@ cy.get('.products').find('.product').should('have.length', 4);
 cy.get('.products').as('productLocator');
 console.log("print with js");
 cy.log("print with cypress");
-
+//updated for GitProjectS
 cy.get('.products').find('.product').eq(2).contains('ADD TO CART').click().then(function()
 {
       console.log('js within cy');
