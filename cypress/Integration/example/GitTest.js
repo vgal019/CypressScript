@@ -18,7 +18,7 @@ console.log("Git project - added2 after added")
 
 console.log("Cypress Script - added/develop branch1")
 console.log("Cypress Script - added/develop branch2 - develop branch")
-console.log("Cypress Script - added/develop branch3-develop updating same line")
+console.log("Cypress Script - added/develop branch3")
     })
 
 })
