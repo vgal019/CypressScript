@@ -15,6 +15,10 @@ console.log("editing from develop branch2")
 
 console.log("Git project - added - git practical")
 console.log("Git project - added2 after added")
+
+console.log("Cypress Script - added/develop branch1")
+console.log("Cypress Script - added/develop branch2")
+console.log("Cypress Script - added/develop branch3")
     })
 
 })
