@@ -12,6 +12,8 @@ console.log("editing from develop branch")
 console.log("editing from develop branch2")
 //test test test test test
 
+
+console.log("Git project - added - git practical")
     })
 
 })
